@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Str;
+
 $DATABASE_URL=parse_url('DATABASE_URL');
 
 return [
@@ -68,7 +69,6 @@ return [
 
         'pgsql' => [
             'driver' => 'pgsql',
-            'url' => env('DATABASE_URL'),
             'host' => $DATABASE_URL["host"],
             'port' => $DATABASE_URL["port"],
             'database' => ltrim($DATABASE_URL["path"],"/"),
