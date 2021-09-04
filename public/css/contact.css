@@ -1,0 +1,74 @@
+section#contact {
+    background-color:gray;
+   
+}
+section#contact form#contactForm .form-group input.form-control {
+    height: 0;
+    margin-bottom: 1.5rem;
+    width: 24rem;
+}
+
+section#contact form#contactForm .form-group-textarea textarea {
+    height: auto;
+    width: 24rem;
+}
+
+
+.btn_sendmsg {
+    background: #000;
+    color: #fff;
+}
+
+section#contact .section-heading {
+    color: #000;
+    font-weight: 200;
+}
+
+.otherslink{}
+
+.otherslink p{}
+
+.otherslink {
+    margin: 0 0;
+    padding: 0;
+    justify-content: center;
+    margin: auto;
+    margin: 0;
+    position: relative;
+    right: 0;
+    left: 226px;
+    top: 40px;
+}
+
+
+.otherslink p {
+    justify-content: center;
+    margin: auto;
+    line-height: 2;
+    color: #000;
+}
+
+.otherslink p a{
+
+    color:blue
+}
+
+.otherslink p a {
+    color: blue;
+    margin: 0 12px;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+    position: relative;
+    top: 41px;
+}
+
+.btn_sendmsg {
+    background: #000;
+    color: #fff;
+    margin-top: 36px;
+    position: relative;
+    left:-12rem;;
+   
+}

@@ -1,0 +1,15 @@
+.card-c{width: 18rem;}
+
+.cert_heading{}
+
+.cert_heading {
+ justify-content: center;
+ text-align: center;
+ margin: 0;
+ margin-bottom: 5rem;
+}
+
+.card-c {
+ width: 15rem;
+ margin: 14px 25px;
+}

@@ -1,0 +1,26 @@
+.weh{
+ font-size: 2.5rem;
+ text-align: center;
+}
+
+.weht{
+ text-align: center;
+ font-weight: 700;
+ margin-bottom: 0;
+ justify-content: center;
+ margin: auto;
+ margin: 15% 0;
+}
+
+.card-o {
+ position: relative;
+ display: flex;
+ flex-direction: column;
+ min-width: 0;
+ word-wrap: break-word;
+ background-color: #000;
+ background-clip: border-box;
+ border: 1px solid rgba(0, 0, 0, 0.125);
+ border-radius: 0.25rem;
+ color: #fff;
+}

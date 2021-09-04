@@ -1,0 +1,4 @@
+MySQL DB Name:epiz_29605991_portfolio
+MySQL User Name:epiz_29605991
+MySQL Password:Rknice222666@
+MySQL Host Name:sql102.epizy.com

@@ -1,0 +1,25 @@
+.service_card {
+ max-width: 17rem;
+ padding: 3rem 1rem;
+ margin: 0rem 2rem;
+ height: 26rem;
+}
+
+.service_card {
+ max-width: 17rem;
+ padding: 3rem 1rem;
+ margin: 0rem 2rem;
+ height: 26rem;
+ background-color: #000;
+ color: #fff;
+}
+.service_card:hover {
+ max-width: 17rem;
+ padding: 3rem 1rem;
+ margin: 0rem 2rem;
+ height: 26rem;
+ background-color:#fff;
+ color: #000;
+}
+
+.services{}
