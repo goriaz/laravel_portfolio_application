@@ -115,7 +115,7 @@
 
          <section class="skills" id="skills">
 
-                      <h1>Skills of Riaz Khan</h1>  
+                      <h1>Skills of Galib Khan</h1>  
                       
             <div class="skills_set">
 
@@ -170,7 +170,7 @@
 
       <div class="container-fluid">
           <div class="text-center">
-              <h2 class="section-heading text-uppercase">Projects  Done By Riaz Khan </h2>
+              <h2 class="section-heading text-uppercase">Projects  Done By Galib Khan </h2>
               
           </div>
           <div class="row text-center services" >
